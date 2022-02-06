@@ -4,7 +4,7 @@ The purpose of this role is to configure common things on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-common/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-common/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-common/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-common)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/buluma/common)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/common)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-common.svg)](https://github.com/buluma/ansible-role-common/releases/)|
+|[![github](https://github.com/buluma/ansible-role-common/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-common/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-common/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-common)|[![quality](https://img.shields.io/ansible/quality/57962)](https://galaxy.ansible.com/buluma/common)|[![downloads](https://img.shields.io/ansible/role/d/57962)](https://galaxy.ansible.com/buluma/common)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-common.svg)](https://github.com/buluma/ansible-role-common/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
