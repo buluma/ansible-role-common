@@ -64,7 +64,7 @@
   notify:
     - Reboot
 
-- name: fill /etc/hosts
+- name: Fill /etc/hosts
   block:
     - name: Fill /etc/hosts
       ansible.builtin.template:
