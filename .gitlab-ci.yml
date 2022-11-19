@@ -23,15 +23,13 @@ molecule:
       - image: "amazonlinux"
         tag: "latest"
       - image: "centos"
+        tag: "centos8"
+      - image: "centos"
         tag: "centos7"
-      - image: "fedora"
-        tag: "latest"
       - image: "ubuntu"
         tag: "latest"
       - image: "ubuntu"
         tag: "focal"
-      - image: "ubuntu"
-        tag: "jammy"
 
 testing:
   tags:
