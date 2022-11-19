@@ -47,7 +47,7 @@ molecule:
 
 testing:
   tags:
-   - ec2-af-south-1-docker
+    - ec2-af-south-1
   stage: test
   needs: []
   script:
