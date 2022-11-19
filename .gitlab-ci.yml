@@ -46,8 +46,8 @@ molecule:
         tag: "jammy"
 
 testing:
-tags:
-  - ec2-af-south-1-docker
+  tags:
+   - ec2-af-south-1-docker
   stage: test
   needs: []
   script:
