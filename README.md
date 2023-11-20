@@ -1,10 +1,10 @@
-# [common](#common)
+# [Ansible role common](#common)
 
 The purpose of this role is to configure common things on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-common/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-common/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-common/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-common)|[![quality](https://img.shields.io/ansible/quality/57962)](https://galaxy.ansible.com/buluma/common)|[![downloads](https://img.shields.io/ansible/role/d/57962)](https://galaxy.ansible.com/buluma/common)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-common.svg)](https://github.com/buluma/ansible-role-common/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-common.svg)](https://github.com/buluma/ansible-role-common/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-common.svg)](https://github.com/buluma/ansible-role-common/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-common/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-common/actions/workflows/molecule.yml)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-common/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-common)|[![downloads](https://img.shields.io/ansible/role/d/4670)](https://galaxy.ansible.com/buluma/common)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-common.svg)](https://github.com/buluma/ansible-role-common/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-common.svg)](https://github.com/buluma/ansible-role-common/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-common.svg)](https://github.com/buluma/ansible-role-common/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -93,7 +93,7 @@ This role has been tested on these [container images](https://hub.docker.com/u/b
 |[opensuse](https://hub.docker.com/repository/docker/buluma/opensuse/general)|all|
 |[Ubuntu](https://hub.docker.com/repository/docker/buluma/ubuntu/general)|all|
 
-The minimum version of Ansible required is 2.10, tests have been done to:
+The minimum version of Ansible required is 2.12, tests have been done to:
 
 - The previous version.
 - The current version.
