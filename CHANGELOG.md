@@ -2,7 +2,17 @@
 
 ## [Unreleased](https://github.com/buluma/ansible-role-common/tree/HEAD)
 
-[Full Changelog](https://github.com/buluma/ansible-role-common/compare/1.0.10...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-common/compare/2.0.0...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#13](https://github.com/buluma/ansible-role-common/issues/13)
+- Update action [\#12](https://github.com/buluma/ansible-role-common/issues/12)
+- rebuild action [\#11](https://github.com/buluma/ansible-role-common/issues/11)
+
+## [2.0.0](https://github.com/buluma/ansible-role-common/tree/2.0.0) (2023-12-25)
+
+[Full Changelog](https://github.com/buluma/ansible-role-common/compare/1.0.10...2.0.0)
 
 **Closed issues:**
 
