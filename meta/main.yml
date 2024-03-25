@@ -13,10 +13,10 @@ galaxy_info:
         - all
     - name: Amazon
       versions:
-        - Candidate
-    - name: EL
-      versions:
-        - "8"
+        - all
+    # - name: EL
+    #   versions:
+    #     - "8"
     - name: Debian
       versions:
         - all
