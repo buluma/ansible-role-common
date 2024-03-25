@@ -48,9 +48,9 @@ jobs:
         config:
           - image: "docker-molecule-images"
             tag: "alpine-openrc"
-          - image: "amazonlinux"
+          - image: "docker-molecule-images"
             tag: "amazonlinux2023"
-          - image: "amazonlinux"
+          - image: "docker-molecule-images"
             tag: "amazonlinux1"
           - image: "docker-molecule-images"
             tag: "buster"
