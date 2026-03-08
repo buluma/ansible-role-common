@@ -89,7 +89,6 @@ This role has been tested on these [container images](https://hub.docker.com/u/r
 |[Amazon](https://hub.docker.com/r/robertdebock/amazonlinux)|all|
 |[Debian](https://hub.docker.com/r/robertdebock/debian)|all|
 |[Fedora](https://hub.docker.com/r/robertdebock/fedora)|all|
-|[opensuse](https://hub.docker.com/r/robertdebock/opensuse)|all|
 |[Ubuntu](https://hub.docker.com/r/robertdebock/ubuntu)|all|
 
 The minimum version of Ansible required is 2.12, tests have been done on:
@@ -107,3 +106,4 @@ If you find issues, please register them on [GitHub](https://github.com/buluma/a
 ## [Author Information](#author-information)
 
 [buluma](https://buluma.github.io/)
+
